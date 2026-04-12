@@ -1,4 +1,5 @@
 # ZAARD-Proyecto-Seguro
+![Encabezado de ZAARD INNOVATION](assets/zaard_header.png)
 # 🦅 ZAARD INNOVATION: Protocolo de Gestión de Activos Digitales y Ecosistema DeFi
 
 **ZAARD INNOVATION** representa la vanguardia en infraestructura Web3 dentro de la **Binance Smart Chain (BSC)**. No se trata simplemente de un activo digital, sino de un ecosistema integral que fusiona la precisión de la ingeniería de contratos inteligentes con la potencia de modelos de Inteligencia Artificial para la optimización de metadatos y la gestión eficiente de activos.
