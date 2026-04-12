@@ -1,5 +1,6 @@
 # ZAARD-Proyecto-Seguro
-![ZAARD INNOVATION](img/Gemini_Generated_Image_twkbxgtwkbxgtwkb.jpg)
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeiaxdhf2ibejcusfpozcpygwpndtk6p5qe7fucmstlolu4ywj7sq3e" width="200" title="ZAARD Rubí" alt="ZAARD Rubí">
+</p>
 
 # 🦅 ZAARD INNOVATION: Protocolo de Gestión de Activos Digitales y Ecosistema DeFi
 
