@@ -6,6 +6,12 @@
 
 **ZAARD INNOVATION** representa la vanguardia en infraestructura Web3 dentro de la **Binance Smart Chain (BSC)**. No se trata simplemente de un activo digital, sino de un ecosistema integral que fusiona la precisión de la ingeniería de contratos inteligentes con la potencia de modelos de Inteligencia Artificial para la optimización de metadatos y la gestión eficiente de activos.
 
+<p align="center">
+  <img src="Gemini_Generated_Image_e47d5ne47d5ne47d.png" alt="ZAARD INNOVATION" width="350">
+</p>
+
+# ZAARD Proyecto Seguro 🛡️
+### Innovación y Seguridad en Blockchain
 ![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo.png)
 
 
