@@ -6,9 +6,7 @@
 
 **ZAARD INNOVATION** representa la vanguardia en infraestructura Web3 dentro de la **Binance Smart Chain (BSC)**. No se trata simplemente de un activo digital, sino de un ecosistema integral que fusiona la precisión de la ingeniería de contratos inteligentes con la potencia de modelos de Inteligencia Artificial para la optimización de metadatos y la gestión eficiente de activos.
 
-<p align="center">
-  <img src="Gemini_Generated_Image_e47d5ne47d5ne47d.png" alt="ZAARD INNOVATION" width="350">
-</p>
+---
 
 # ZAARD Proyecto Seguro 🛡️
 ### Innovación y Seguridad en Blockchain
@@ -138,7 +136,9 @@ Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
 - **Red:** BNB Smart Chain (BSC)
 - **Contrato:** `0xd9e66399a7017c6Fb5b624D491Bb96a4a736D2Bb`
 - 
-
+### Contacto Oficial
+Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
+[figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
 
 > *"ZAARD es la infraestructura; PANGA es el poder que la mueve."*
 
