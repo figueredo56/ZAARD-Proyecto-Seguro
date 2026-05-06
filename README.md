@@ -118,7 +118,7 @@ La inversión en criptoactivos conlleva riesgos significativos. Al interactuar c
 
 ## 🌐 Our Official Digital Presence
 
-Stay connected with the true source of ZAARD innovation.
+Stay connected with the true source of ZAARD innovation & PANGA EVOLUTIÓN.
 
 * **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
 * **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
