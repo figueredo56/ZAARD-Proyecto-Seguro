@@ -100,6 +100,8 @@ Sigue estos pasos para adquirir tus tokens **ZAARD** de forma segura utilizando 
 * Toca el botón **"+"**, selecciona la red **BNB Smart Chain** y pega el contrato:
   `0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb`
 
+  ![Texto Descriptivo](https://raw.githubusercontent.com/figueredo56/ZAARD-Proyecto-Seguro/11ac40d191d7397563a105e064e3dfbbb0f99cc1/58%20sin%20t%C3%ADtulo_20260509130307.png)
+
   # 📑 Arquitectura del Ecosistema: Ciclo de Valoración Dual (ZAARD/PANGA)
 
 Este protocolo opera bajo un modelo de **Sincronía de Activos**, donde se separan las funciones de acumulación de valor y generación de liquidez mediante un algoritmo de rotación de capital optimizado.
