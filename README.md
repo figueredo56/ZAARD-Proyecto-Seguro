@@ -1,6 +1,6 @@
 # ZAARD-Proyecto-Seguro
   
-![ZAARD INNOVATION](https://gateway.pinata.cloud/ipfs/bafybeihwgutss2majkvanadmm4rwbp6kpcgywebs3cgpgwdcs45ut3srd4)
+![Logo Principal](https://raw.githubusercontent.com/figueredo56/ZAARD-Proyecto-Seguro/refs/heads/main/57%20sin%20t%C3%ADtulo_20260509101209_1.png)
 
 # 🦅 ZAARD INNOVATION: Protocolo de Gestión de Activos Digitales y Ecosistema DeFi
 
