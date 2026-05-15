@@ -176,9 +176,16 @@ Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
 > **⚠ CAUTION: Disclaimer ⚠**
 > This repository is for code review and transparent verification. Interacting with smart contracts involves risk. Ensure you are using the officially verified website and channels. This code is not an invitation to invest.
 
-- **Red:** BNB Smart Chain (BSC)
+- ZAARD **Red:** BNB Smart Chain (BSC)
 - **Contrato:** `0xd9e66399a7017c6Fb5b624D491Bb96a4a736D2Bb`
 - 
+- PANGA **Red:** BNB Smart Chain (BSC)
+- **Contrato:** `0xef516ded4cca45207d21056faa1910c2930c96b5`
+- 
+-ZARED **Red:** BNB Smart Chain (BSC)
+- **Contrato:** `0x073c12c7072676c9a1afd83c07e470aa7d81aeb3`
+
+---
 ### Contacto Oficial
 Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
 [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
