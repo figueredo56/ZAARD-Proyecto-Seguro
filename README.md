@@ -10,7 +10,7 @@
 
 # ZAARD Proyecto Seguro 🛡️
 ### Innovación y Seguridad en Blockchain
-![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo.png)
+![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD-Proyecto-Seguro/refs/heads/main/74%20sin%20t%C3%ADtulo_20260515153204_3.png)
 
 
 ## 📊 Arquitectura Técnica y Tokenomics
