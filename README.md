@@ -98,7 +98,7 @@ Sigue estos pasos para adquirir tus tokens **ZAARD** de forma segura utilizando 
 ### 5. Ver mis Tokens
 * Si no aparecen en tu pantalla principal, ve a **"Gestionar Tokens"** dentro de la Web3.
 * Toca el botón **"+"**, selecciona la red **BNB Smart Chain** y pega el contrato:
-  `0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb`
+  `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65`
 
   ![Texto Descriptivo](https://raw.githubusercontent.com/figueredo56/ZAARD-Proyecto-Seguro/11ac40d191d7397563a105e064e3dfbbb0f99cc1/58%20sin%20t%C3%ADtulo_20260509130307.png)
 
@@ -108,7 +108,7 @@ Este protocolo opera bajo un modelo de **Sincronía de Activos**, donde se separ
 
 ## 1. Definición Funcional de los Activos
 
-### 🏦 ZAARD (Protocolo de Reserva de Valor - "Caja Fuerte")
+### 🏦 ZARD (Protocolo de Reserva de Valor - "Caja Fuerte")
 ZAARD es el pilar de estabilidad del ecosistema. Su función es la preservación de capital a largo plazo (Hold).
 * **Base de Valor Real:** Su economía está respaldada por la utilidad de los **Juegos NFT**, generando una demanda orgánica constante.
 * **Respaldo Técnico:** Actúa como el colateral del ecosistema, asegurando que el valor generado tenga un destino seguro.
