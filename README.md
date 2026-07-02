@@ -19,9 +19,9 @@ El núcleo del ecosistema ZAARD ha sido diseñado bajo principios de escasez mat
 
 * **Nombre del Token:** ZAARD
 * **Red de Despliegue:** Binance Smart Chain (BSC)
-* **Dirección de Contrato (ZAARD):** `0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb`
-* **Suministro Máximo (Max Supply):** 900,000 unidades (Escasez Radical).
-* **Mecanismo de Seguridad:** Liquidez bloqueada al **97.60%** en PancakeSwap V2, protegiendo la integridad del mercado.
+* **Dirección de Contrato (ZARD):** `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65`
+* **Suministro Máximo (Max Supply):** 200 unidades (Escasez Radical).
+* **Mecanismo de Seguridad:** Liquidez bloqueada al **77.60%** en PancakeSwap V2, protegiendo la integridad del mercado.
 
 ## 💎 Pilares Estratégicos del Proyecto
 
@@ -62,12 +62,12 @@ ZAARD opera principalmente en **PancakeSwap V2**.
 1. Accede a [PancakeSwap](https://pancakeswap.finance/swap).
 2. Conecta tu billetera.
 3. En el selector de tokens, pega la dirección oficial del contrato: 
-   `0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb`
+   `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65`
 4. Selecciona el monto a intercambiar y confirma la transacción.
 
 ### 4. Importar Token a tu Billetera
 Si no visualizas tus tokens tras la compra, deberás añadirlos manualmente:
-* **Dirección del Contrato:** `0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb`
+* **Dirección del Contrato:** `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65`
 * **Símbolo:** `ZAARD`
 * **Decimales:** `18` (o los especificados en el contrato).
 ---
@@ -87,7 +87,7 @@ Sigue estos pasos para adquirir tus tokens **ZAARD** de forma segura utilizando 
 ### 3. Configurar el Intercambio
 * En el panel de intercambio, deja **BNB** arriba.
 * En el campo de abajo, toca "Seleccionar un token" y **pega la dirección del contrato oficial**:
-  `0xd9e66399a7017c6fb5b624d491bb96a4a736d2bb`
+  `0x6be4672bbe065356b9beb661cf2a3356664653d0`
 * Acepta la importación del token **ZAARD**.
 
 ### 4. Realizar la Compra
@@ -177,9 +177,9 @@ Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
 > This repository is for code review and transparent verification. Interacting with smart contracts involves risk. Ensure you are using the officially verified website and channels. This code is not an invitation to invest.
 
 - ZAARD **Red:** BNB Smart Chain (BSC)
-- **Contrato:** `0xd9e66399a7017c6Fb5b624D491Bb96a4a736D2Bb`
+- **Contrato:** `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65`
 - PANGA **Red:** BNB Smart Chain (BSC)
-- **Contrato:** `0xef516ded4cca45207d21056faa1910c2930c96b5`
+- **Contrato:** `0x6be4672bbe065356b9beb661cf2a3356664653d0`
 - ZARED **Red:** BNB Smart Chain (BSC)
 - **Contrato:** `0x073c12c7072676c9a1afd83c07e470aa7d81aeb3`
   
