@@ -17,30 +17,30 @@
 
 El núcleo del ecosistema ZAARD ha sido diseñado bajo principios de escasez matemática y transparencia técnica absoluta para garantizar la sostenibilidad a largo plazo.
 
-* **Nombre del Token:** ZAARD
-* **Red de Despliegue:** Binance Smart Chain (BSC)
-* **Dirección de Contrato (ZARD):** `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65`
-* **Suministro Máximo (Max Supply):** 200 unidades (Escasez Radical).
-* **Mecanismo de Seguridad:** Liquidez bloqueada al **77.60%** en PancakeSwap V2, protegiendo la integridad del mercado.
+- **Nombre del Token:** ZAARD
+- **Red de Despliegue:** Binance Smart Chain (BSC)
+- **Dirección de Contrato (ZARD):** `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
+- **Suministro Máximo (Max Supply):** 200 unidades (Escasez Radical).
+- **Mecanismo de Seguridad:** Liquidez bloqueada al **77.60%** en PancakeSwap V2, protegiendo la integridad del mercado.
 
 ## 💎 Pilares Estratégicos del Proyecto
 
 ### 1. Ingeniería Verificada (The Verified Engineering)
 La confianza es el código de ZAARD. Todo el desarrollo se respalda en una documentación técnica exhaustiva:
-* **Whitepaper v1.0:** Define la visión estratégica y la hoja de ruta del ecosistema.
-* **Yellow Paper:** Detalla las especificaciones matemáticas, algorítmicas y el diseño de los smart contracts, asegurando que cada línea de código sea auditable y eficiente.
+- **Whitepaper v1.0:** Define la visión estratégica y la hoja de ruta del ecosistema.
+- **Yellow Paper:** Detalla las especificaciones matemáticas, algorítmicas y el diseño de los smart contracts, asegurando que cada línea de código sea auditable y eficiente.
 
 ### 2. Ecosistema NFT y Almacenamiento Descentralizado
 A diferencia de colecciones estándar, los activos de **ZAARD INFINITO** y **ZAARD COLLECTION** integran:
-* **Optimización por IA:** Metadatos generados y refinados para maximizar la exclusividad.
-* **Inmutabilidad IPFS:** Uso de **Pinata** para el alojamiento de metadatos y arte digital, garantizando que el activo perdure sin riesgo de alteración centralizada.
-* **Estándares Avanzados:** Implementación de contratos basados en ERC-721A y BEP-20 para optimizar costos de gas y velocidad de transacción.
+- **Optimización por IA:** Metadatos generados y refinados para maximizar la exclusividad.
+- **Inmutabilidad IPFS:** Uso de **Pinata** para el alojamiento de metadatos y arte digital, garantizando que el activo perdure sin riesgo de alteración centralizada.
+- **Estándares Avanzados:** Implementación de contratos basados en ERC-721A y BEP-20 para optimizar costos de gas y velocidad de transacción.
 
 ### 3. Inteligencia Artificial Aplicada a DeFi
 ZAARD integra modelos de IA para:
-* Gestión predictiva de flujos de liquidez.
-* Optimización dinámica de utilidades del token (Minting utility, gobernanza y staking).
-* Análisis de estabilidad operativa del protocolo ZAARD v1.0.
+- Gestión predictiva de flujos de liquidez.
+- Optimización dinámica de utilidades del token (Minting utility, gobernanza y staking).
+- Análisis de estabilidad operativa del protocolo ZAARD v1.0.
 
 ## 🚀 Visión de Mercado y Crecimiento
 
@@ -52,7 +52,7 @@ Para garantizar la seguridad de tus fondos y la correcta recepción de tus token
 
 ### 1. Configuración de Billetera
 Asegúrate de tener una billetera compatible con la **Binance Smart Chain (BSC)**, como **MetaMask**, **Trust Wallet** o **Binance Web3 Wallet**.
-* Red: `BNB Smart Chain (BEP20)`
+- Red: `BNB Smart Chain (BEP20)`
 
 ### 2. Adquisición de BNB
 Necesitarás **BNB** en tu billetera para realizar el intercambio y cubrir las comisiones de red (gas). Puedes transferir BNB desde cualquier exchange centralizado hacia tu dirección de billetera personal.
@@ -62,43 +62,43 @@ ZAARD opera principalmente en **PancakeSwap V2**.
 1. Accede a [PancakeSwap](https://pancakeswap.finance/swap).
 2. Conecta tu billetera.
 3. En el selector de tokens, pega la dirección oficial del contrato: 
-   `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65`
+   `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 4. Selecciona el monto a intercambiar y confirma la transacción.
 
 ### 4. Importar Token a tu Billetera
 Si no visualizas tus tokens tras la compra, deberás añadirlos manualmente:
-* **Dirección del Contrato:** `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65`
-* **Símbolo:** `ZAARD`
-* **Decimales:** `18` (o los especificados en el contrato).
+- **Dirección del Contrato:** `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
+- **Símbolo:** `ZAARD`
+- **Decimales:** `18` (o los especificados en el contrato).
 ---
 # 🛒 Cómo comprar ZAARD en Binance Web3 Wallet
 
 Sigue estos pasos para adquirir tus tokens **ZAARD** de forma segura utilizando la infraestructura descentralizada de Binance:
 
 ### 1. Preparar la Billetera
-* Abre la App de **Binance** y entra en la pestaña **Web3**.
-* Asegúrate de tener **BNB** en tu saldo (Red **BEP20**). Si no tienes, usa el botón **"Transferir"** para pasar fondos desde tu Billetera Spot.
+- Abre la App de **Binance** y entra en la pestaña **Web3**.
+- Asegúrate de tener **BNB** en tu saldo (Red **BEP20**). Si no tienes, usa el botón **"Transferir"** para pasar fondos desde tu Billetera Spot.
 
 ### 2. Acceder al Mercado (PancakeSwap)
-* En la parte inferior de la Billetera Web3, toca en **"Descubrir"** (o DApps).
-* Busca y abre **PancakeSwap**.
-* Toca en **"Conectar"** y selecciona **"Binance Web3 Wallet"**.
+- En la parte inferior de la Billetera Web3, toca en **"Descubrir"** (o DApps).
+- Busca y abre **PancakeSwap**.
+- Toca en **"Conectar"** y selecciona **"Binance Web3 Wallet"**.
 
 ### 3. Configurar el Intercambio
-* En el panel de intercambio, deja **BNB** arriba.
-* En el campo de abajo, toca "Seleccionar un token" y **pega la dirección del contrato oficial**:
-  `0x6be4672bbe065356b9beb661cf2a3356664653d0`
-* Acepta la importación del token **ZAARD**.
+- En el panel de intercambio, deja **BNB** arriba.
+- En el campo de abajo, toca "Seleccionar un token" y **pega la dirección del contrato oficial**:
+  `0x4a6c3ea9e7132ad217c31f8252119f08c801366e`
+- Acepta la importación del token **ZAARD**.
 
 ### 4. Realizar la Compra
-* Ingresa la cantidad de BNB que deseas invertir.
-* Haz clic en **"Swap"** y luego en **"Confirm Swap"**.
-* La Billetera Web3 te pedirá una firma/confirmación. Acéptala para completar la transacción.
+- Ingresa la cantidad de BNB que deseas invertir.
+- Haz clic en **"Swap"** y luego en **"Confirm Swap"**.
+- La Billetera Web3 te pedirá una firma/confirmación. Acéptala para completar la transacción.
 
 ### 5. Ver mis Tokens
-* Si no aparecen en tu pantalla principal, ve a **"Gestionar Tokens"** dentro de la Web3.
-* Toca el botón **"+"**, selecciona la red **BNB Smart Chain** y pega el contrato:
-  `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65`
+- Si no aparecen en tu pantalla principal, ve a **"Gestionar Tokens"** dentro de la Web3.
+- Toca el botón **"+"**, selecciona la red **BNB Smart Chain** y pega el contrato:
+  `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 
   ![Texto Descriptivo](https://raw.githubusercontent.com/figueredo56/ZAARD-Proyecto-Seguro/11ac40d191d7397563a105e064e3dfbbb0f99cc1/58%20sin%20t%C3%ADtulo_20260509130307.png)
 
@@ -110,13 +110,13 @@ Este protocolo opera bajo un modelo de **Sincronía de Activos**, donde se separ
 
 ### 🏦 ZARD (Protocolo de Reserva de Valor - "Caja Fuerte")
 ZAARD es el pilar de estabilidad del ecosistema. Su función es la preservación de capital a largo plazo (Hold).
-* **Base de Valor Real:** Su economía está respaldada por la utilidad de los **Juegos NFT**, generando una demanda orgánica constante.
-* **Respaldo Técnico:** Actúa como el colateral del ecosistema, asegurando que el valor generado tenga un destino seguro.
+- **Base de Valor Real:** Su economía está respaldada por la utilidad de los **Juegos NFT**, generando una demanda orgánica constante.
+- **Respaldo Técnico:** Actúa como el colateral del ecosistema, asegurando que el valor generado tenga un destino seguro.
 
 ### 📊 PANGA (Motor de Liquidez y Arbitraje - "Trading")
 PANGA es el activo de alta movilidad diseñado para la ejecución de estrategias de mercado (Compra en soporte / Venta en resistencia).
-* **Agilidad de Mercado:** Optimizado para transacciones rápidas y aprovechamiento de la volatilidad.
-* **Generador de Cash Flow:** Su propósito es maximizar el capital líquido mediante el trading activo.
+- **Agilidad de Mercado:** Optimizado para transacciones rápidas y aprovechamiento de la volatilidad.
+- **Generador de Cash Flow:** Su propósito es maximizar el capital líquido mediante el trading activo.
 
 ---
 
@@ -127,8 +127,8 @@ El protocolo implementa una estrategia de gestión de riesgo para garantizar la 
 ### A. Configuración de Operación (Expansión)
 Para maximizar el rendimiento durante ciclos de volatilidad, el portafolio se estructura de la siguiente manera:
 $$Capital_{Total} = [0.80 \cdot PANGA] + [0.20 \cdot ZAARD]$$
-* El **80%** se mantiene en **PANGA** para capitalizar el trading.
-* El **20%** se mantiene en **ZAARD** como reserva estratégica.
+- El **80%** se mantiene en **PANGA** para capitalizar el trading.
+- El **20%** se mantiene en **ZAARD** como reserva estratégica.
 
 ### B. Ejecución de "Ganancia Segura" (Consolidación)
 Al alcanzar los objetivos de beneficio en la subida, se activa el protocolo de blindaje:
@@ -140,11 +140,11 @@ Al alcanzar los objetivos de beneficio en la subida, se activa el protocolo de b
 
 ## 3. Sustento Económico y Gaming
 A diferencia de otros tokens, **ZAARD** posee una base fundamental sólida:
-* **Ecosistema NFT:** La integración con juegos arcade asegura un flujo de transacciones real y constante.
-* **Seguridad Estructural:** El código y la lógica de distribución están diseñados para incentivar el holding, reduciendo la presión de venta y fortaleciendo el precio base.
+- **Ecosistema NFT:** La integración con juegos arcade asegura un flujo de transacciones real y constante.
+- **Seguridad Estructural:** El código y la lógica de distribución están diseñados para incentivar el holding, reduciendo la presión de venta y fortaleciendo el precio base.
 
 ---
-⚠️ **Importante:** Asegúrate siempre de verificar que el contrato termine en `...d2bb` para garantizar que estás operando con el token oficial de **ZAARD INNOVATION**.
+⚠️ **Importante:** Asegúrate siempre de verificar que el contrato termine en `...5d38` para garantizar que estás operando con el token oficial de **ZAARD INNOVATION**.
 
 ---
 ⚠️ **Nota de Seguridad:** Nunca compartas tu frase semilla. Los administradores de ZAARD nunca te pedirán tus claves privadas ni te enviarán enlaces de "validación" por mensaje directo.
@@ -163,9 +163,9 @@ La inversión en criptoactivos conlleva riesgos significativos. Al interactuar c
 
 Stay connected with the true source of ZAARD innovation & PANGA EVOLUTIÓN.
 
-* **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
-* **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
-* **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
+- **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
+- **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
+- **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
 ## 👤 Founder & Lead Developer
 Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
 
@@ -177,9 +177,9 @@ Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
 > This repository is for code review and transparent verification. Interacting with smart contracts involves risk. Ensure you are using the officially verified website and channels. This code is not an invitation to invest.
 
 - ZAARD **Red:** BNB Smart Chain (BSC)
-- **Contrato:** `0x3468ea4e6ce13ec4c7f8651f7efc6aa6046f4d65`
+- **Contrato:** `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 - PANGA **Red:** BNB Smart Chain (BSC)
-- **Contrato:** `0x6be4672bbe065356b9beb661cf2a3356664653d0`
+- **Contrato:** `0x4a6c3ea9e7132ad217c31f8252119f08c801366e`
 - ZARED **Red:** BNB Smart Chain (BSC)
 - **Contrato:** `0x073c12c7072676c9a1afd83c07e470aa7d81aeb3`
   
