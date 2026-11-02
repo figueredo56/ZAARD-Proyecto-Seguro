@@ -17,12 +17,17 @@
 
 El núcleo del ecosistema ZAARD ha sido diseñado bajo principios de escasez matemática y transparencia técnica absoluta para garantizar la sostenibilidad a largo plazo.
 
-- **Nombre del Token:** ZAARD
+- **Nombre del Token:** ZARD
 - **Red de Despliegue:** Binance Smart Chain (BSC)
 - **Dirección de Contrato (ZARD):** `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 - **Suministro Máximo (Max Supply):** 200 unidades (Escasez Radical).
 - **Mecanismo de Seguridad:** Liquidez bloqueada al **77.60%** en PancakeSwap V2, protegiendo la integridad del mercado.
 
+- **Nombre del Token:** PANGA 
+- **Red de Despliegue:** Binance Smart Chain (BSC)
+- **Dirección de Contrato (ZARD):** `0x4a6c3ea9e7132ad217c31f8252119f08c801366e`
+- **Suministro Máximo (Max Supply):** 200 unidades (Escasez Radical).
+- **Mecanismo de Seguridad:** Liquidez bloqueada al **87.90%** en PancakeSwap V2, protegiendo la integridad del mercado.
 ## 💎 Pilares Estratégicos del Proyecto
 
 ### 1. Ingeniería Verificada (The Verified Engineering)
@@ -99,6 +104,10 @@ Sigue estos pasos para adquirir tus tokens **ZAARD** de forma segura utilizando 
 - Si no aparecen en tu pantalla principal, ve a **"Gestionar Tokens"** dentro de la Web3.
 - Toca el botón **"+"**, selecciona la red **BNB Smart Chain** y pega el contrato:
   `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
+
+- Ó en tu pantalla principal, ve a **"Gestionar Tokens"** dentro de la Web3.
+- Toca el botón **"+"**, selecciona la red **BNB Smart Chain** y pega el contrato:
+  `0x4a6c3ea9e7132ad217c31f8252119f08c801366e`
 
   ![Texto Descriptivo](https://photos.pinksale.finance/file/pinksale-logo-upload/1793580450953-6f185aa92d9ef625377310eff59ba2ab.png)
 
