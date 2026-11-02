@@ -100,7 +100,7 @@ Sigue estos pasos para adquirir tus tokens **ZAARD** de forma segura utilizando 
 - Toca el botón **"+"**, selecciona la red **BNB Smart Chain** y pega el contrato:
   `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 
-  ![Texto Descriptivo](https://raw.githubusercontent.com/figueredo56/ZAARD-Proyecto-Seguro/11ac40d191d7397563a105e064e3dfbbb0f99cc1/58%20sin%20t%C3%ADtulo_20260509130307.png)
+  ![Texto Descriptivo](https://photos.pinksale.finance/file/pinksale-logo-upload/1793580450953-6f185aa92d9ef625377310eff59ba2ab.png)
 
   # 📑 Arquitectura del Ecosistema: Ciclo de Valoración Dual (ZAARD/PANGA)
 
@@ -164,7 +164,7 @@ La inversión en criptoactivos conlleva riesgos significativos. Al interactuar c
 Stay connected with the true source of ZAARD innovation & PANGA EVOLUTIÓN.
 
 - **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
-- **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
+- **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
 - **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
 ## 👤 Founder & Lead Developer
 Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
