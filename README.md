@@ -76,7 +76,7 @@ Si no visualizas tus tokens tras la compra, deberás añadirlos manualmente:
 - **Símbolo:** `ZAARD`
 - **Decimales:** `18` (o los especificados en el contrato).
 ---
-# 🛒 Cómo comprar ZAARD en Binance Web3 Wallet
+# 🛒 Cómo comprar ZARD en Binance Web3 Wallet
 
 Sigue estos pasos para adquirir tus tokens **ZAARD** de forma segura utilizando la infraestructura descentralizada de Binance:
 
@@ -135,7 +135,7 @@ El protocolo implementa una estrategia de gestión de riesgo para garantizar la 
 
 ### A. Configuración de Operación (Expansión)
 Para maximizar el rendimiento durante ciclos de volatilidad, el portafolio se estructura de la siguiente manera:
-$$Capital_{Total} = [0.80 \cdot PANGA] + [0.20 \cdot ZAARD]$$
+$$Capital_{Total} = [0.80 \cdot PANGA] + [0.20 \cdot ZARD]$$
 - El **80%** se mantiene en **PANGA** para capitalizar el trading.
 - El **20%** se mantiene en **ZAARD** como reserva estratégica.
 
@@ -148,7 +148,7 @@ Al alcanzar los objetivos de beneficio en la subida, se activa el protocolo de b
 ---
 
 ## 3. Sustento Económico y Gaming
-A diferencia de otros tokens, **ZAARD** posee una base fundamental sólida:
+A diferencia de otros tokens, **ZARD** posee una base fundamental sólida:
 - **Ecosistema NFT:** La integración con juegos arcade asegura un flujo de transacciones real y constante.
 - **Seguridad Estructural:** El código y la lógica de distribución están diseñados para incentivar el holding, reduciendo la presión de venta y fortaleciendo el precio base.
 
@@ -172,11 +172,11 @@ La inversión en criptoactivos conlleva riesgos significativos. Al interactuar c
 
 Stay connected with the true source of ZAARD innovation & PANGA EVOLUTIÓN.
 
-- **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
+- **🏠 Official Website:** [ZAARD WEB](https://figueredo56.github.io/DAIoficial/)
 - **🐦 Official X (Twitter):** [@ZAARD_ALX](https://x.com/ZAARD_ALX)
 - **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
 ## 👤 Founder & Lead Developer
-Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
+Desarrollado por **Panga** - Founder de ZAARD INNOVATION.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aracelis-figueredo-45284a408?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
@@ -195,7 +195,7 @@ Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
 ---
 ### Contacto Oficial
 Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
-[figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
+[Comunidad ZAARD_ALX](https://t.me/+Cjo5z_yXcdwzYjM5)
 
 > *"ZAARD es la infraestructura; PANGA es el poder que la mueve & ZARED La solidificación de un sistema robusto."*
 
