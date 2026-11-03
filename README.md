@@ -92,7 +92,7 @@ Sigue estos pasos para adquirir tus tokens **ZAARD** de forma segura utilizando 
 ### 3. Configurar el Intercambio
 - En el panel de intercambio, deja **BNB** arriba.
 - En el campo de abajo, toca "Seleccionar un token" y **pega la dirección del contrato oficial**:
-  `0x4a6c3ea9e7132ad217c31f8252119f08c801366e`
+  `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 - Acepta la importación del token **ZAARD**.
 
 ### 4. Realizar la Compra
@@ -189,8 +189,7 @@ Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
 - **Contrato:** `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 - PANGA **Red:** BNB Smart Chain (BSC)
 - **Contrato:** `0x4a6c3ea9e7132ad217c31f8252119f08c801366e`
-- ZARED **Red:** BNB Smart Chain (BSC)
-- **Contrato:** `0x073c12c7072676c9a1afd83c07e470aa7d81aeb3`
+
   
 ---
 ---
